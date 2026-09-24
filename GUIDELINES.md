@@ -2,7 +2,7 @@
      library needs, not a fixed list — drop any that do not apply to this ecosystem, and add a
      section for anything it has that is not covered here. Fill each section with the actual
      conventions and delete the TODO lines. Rules live here and nowhere else — CONTRIBUTING.md,
-     AGENTS.md, the code-quality command and the AI review configs point at this file instead of
+     AGENTS.md, the code-quality skill and the AI review configs point at this file instead of
      restating it. Delete this comment when done. -->
 
 # Guidelines
