@@ -1,7 +1,9 @@
 <!-- Template — adapting this repository. Skeleton files are not finished files; before the repo
      is announced as ready:
      1. Replace every {{...}} placeholder, here and in every other file.
-     2. LICENSE: keep MIT or swap the whole file for the license the deal requires.
+     2. LICENSE: keep MIT or swap the whole file for the license the deal requires. Keep the
+        matching SECURITY_MIT.md or SECURITY_AGPL.md, rename it to SECURITY.md and delete the
+        other. For any other license, adapt the license sentence in the Legal section.
      3. GUIDELINES.md and ARCHITECTURE.md: write the actual conventions, module map, design
         decisions and constraints. Headings with the TODO comments removed do not count.
      4. RELEASING.md: replace the stub before the first release.

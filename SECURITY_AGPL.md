@@ -1,9 +1,10 @@
-<!-- Template: replace every {{...}} placeholder, then delete this comment. The OPTIONAL
-     block stays hidden until a bug bounty program covers this repository. -->
-     
+<!-- Template: rename this file to SECURITY.md and delete the other SECURITY_*.md variant.
+     Replace every {{...}} placeholder, then delete this comment. The OPTIONAL block stays
+     hidden until a bug bounty program covers this repository. -->
+
 # Security Policy
 
-Security vulnerabilities should be [disclosed](#reporting-a-vulnerability) to the [project maintainers](./CODEOWNERS), or alternatively by email to <security@openzeppelin.com>.
+Security vulnerabilities should be [disclosed](#reporting-a-vulnerability) to the [project maintainers](./.github/CODEOWNERS), or alternatively by email to <security@openzeppelin.com>.
 
 <!-- OPTIONAL — uncomment once a bug bounty program covers this repository, and change the
      sentence above to: "...disclosed to the project maintainers through [Immunefi], or

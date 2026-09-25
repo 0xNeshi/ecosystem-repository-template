@@ -1,9 +1,10 @@
-<!-- Template: replace every {{...}} placeholder, then delete this comment. The OPTIONAL
-     block stays hidden until a bug bounty program covers this repository. -->
+<!-- Template: rename this file to SECURITY.md and delete the other SECURITY_*.md variant.
+     Replace every {{...}} placeholder, then delete this comment. The OPTIONAL block stays
+     hidden until a bug bounty program covers this repository. -->
 
 # Security Policy
 
-Security vulnerabilities should be [disclosed](#reporting-a-vulnerability) to the [project maintainers](./CODEOWNERS), or alternatively by email to <security@openzeppelin.com>.
+Security vulnerabilities should be [disclosed](#reporting-a-vulnerability) to the [project maintainers](./.github/CODEOWNERS), or alternatively by email to <security@openzeppelin.com>.
 
 <!-- OPTIONAL — uncomment once a bug bounty program covers this repository, and change the
      sentence above to: "...disclosed to the project maintainers through [Immunefi], or
@@ -46,4 +47,3 @@ for more information on how to submit a vulnerability using GitHub's interface.
 ## Legal
 
 {{Project name}} is made available under the MIT License, which disclaims all warranties in relation to the project and which limits the liability of those that contribute and maintain the project, including OpenZeppelin. Your use of the project is also governed by the terms found at <https://www.openzeppelin.com/tos> (the "Terms"). As set out in the Terms, you are solely responsible for any use of {{Project name}} and you assume all risks associated with any such use. This Security Policy in no way evidences or represents an on-going duty by any contributor, including OpenZeppelin, to correct any flaws or alert you to all or any of the potential risks of utilizing the project.
-
